@@ -1,7 +1,7 @@
 const { Firestore } = require('@google-cloud/firestore');
 const path = require('path');
 
-const pathKey = path.resolve('../submissionmlgc-jaisy-7134e8bdafb2.json'); // Pastikan path ini benar
+const pathKey = path.resolve('../submissionmlgc-jaisy-653082bdb111.json'); // Pastikan path ini benar
 
 async function getAllData() {
   try {
